@@ -27,5 +27,5 @@ fclose($abrir);
 echo "<font face='arial' size='3'>Cantidad de visitas: ".$cont."</font>";
 ?>
 
-*/El ejercicio utiliza contador.dat para guardar la cantidad de visitas. contador.php lee el valor, le suma 1 y lo guarda nuevamente. Luego muestra el total en pantalla.
+/*El ejercicio utiliza contador.dat para guardar la cantidad de visitas. contador.php lee el valor, le suma 1 y lo guarda nuevamente. Luego muestra el total en pantalla.
 visitas.php incluye contador.php, por lo que el contador se ejecuta cada vez que se carga la pagina.*/
